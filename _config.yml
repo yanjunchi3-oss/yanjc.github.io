@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "yanjunchi3-oss"
+title                    : "Junchi Yan"
 title_separator          : "-"
-name                     : &name "yanjunchi3-oss"
-description              : &description "Research in off-policy evaluation, sequential double robustness, and semiparametric inference."
+name                     : &name "Junchi Yan"
+description              : &description "Junchi Yan's academic homepage. Research in off-policy evaluation, sequential double robustness, and semiparametric inference."
 url                      : "https://yanjunchi3-oss.github.io"
 baseurl                  : "/yanjc.github.io" # Verified project-site path; no trailing slash.
 repository               : "yanjunchi3-oss/yanjc.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : # TODO: Confirm a profile image before displaying one.
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "Off-policy evaluation and semiparametric inference."
+  bio              : "PhD student in statistics"
   location         : # TODO: Confirm the location, if it should be displayed.
-  employer         : # Add after confirming public profile details.
+  employer         : "Renmin University of China"
   uri              : # URL
-  email            : # Add after confirming public contact details.
+  email            : "yanjc@ruc.edu.cn"
 
   # Academic websites
   academia         : # URL

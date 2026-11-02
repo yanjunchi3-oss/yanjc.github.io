@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am Junchi Yan, a PhD student in statistics at the Institute of Statistics and Big Data, Renmin University of China.
+
 My research focuses on statistical methods for reinforcement learning, particularly off-policy evaluation, sequential double robustness, and semiparametric inference. I am interested in estimating policy performance from logged data and understanding how model assumptions affect robustness and statistical efficiency.
 
 ## Research
@@ -19,4 +21,5 @@ My research focuses on statistical methods for reinforcement learning, particula
 ## Contact
 {: #contact}
 
+- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 - GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
